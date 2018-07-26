@@ -1,0 +1,6 @@
+C:\Users\zahirah\source\repos\OpenWeather\OpenWeather.Core\bin\Debug\netstandard2.0\OpenWeather.Core.deps.json
+C:\Users\zahirah\source\repos\OpenWeather\OpenWeather.Core\bin\Debug\netstandard2.0\OpenWeather.Core.dll
+C:\Users\zahirah\source\repos\OpenWeather\OpenWeather.Core\obj\Debug\netstandard2.0\OpenWeather.Core.csprojResolveAssemblyReference.cache
+C:\Users\zahirah\source\repos\OpenWeather\OpenWeather.Core\obj\Debug\netstandard2.0\OpenWeather.Core.csproj.CoreCompileInputs.cache
+C:\Users\zahirah\source\repos\OpenWeather\OpenWeather.Core\obj\Debug\netstandard2.0\OpenWeather.Core.AssemblyInfoInputs.cache
+C:\Users\zahirah\source\repos\OpenWeather\OpenWeather.Core\obj\Debug\netstandard2.0\OpenWeather.Core.AssemblyInfo.cs
